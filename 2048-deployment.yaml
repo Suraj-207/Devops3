@@ -14,7 +14,7 @@ spec:
         app: "frontend"
     spec:
       containers:
-      - image: 375925931428.dkr.ecr.us-east-1.amazonaws.com/suraj-cicd:1
+      - image: 375925931428.dkr.ecr.us-east-1.amazonaws.com/suraj-cicd:2
         imagePullPolicy: Always
         name: "frontend"
         ports:
